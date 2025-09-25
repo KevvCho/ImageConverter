@@ -45,3 +45,8 @@ python main.py
 - Built with CustomTkinter for modern UI
 
 - Uses PIL/Pillow for image processing
+
+## Preview
+
+![Conversión a png](https://i.imgur.com/04Pegv7.png)
+![Conversión a jpg](https://i.imgur.com/BVgHJWq.png)
